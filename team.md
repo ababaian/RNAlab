@@ -105,11 +105,13 @@ image:
 <div class="human" style="background-color:#ddd;">
 
   <img align="right" style="width: 100px; height: 100px" 
-  src="{{ "/images/hu/atcg.png" | prepend: site.baseurl }}">
+  src="{{ "/images/hu/lp.png" | prepend: site.baseurl }}">
   
   <b>Luke Pereira</b> <br>
   <i>Software Engineer</i>
-  <p style="width: calc(100% - 100px - 8px);"><i>...</i></p>
+  <p style="width: calc(100% - 100px - 8px);"><i>Interested in geometry, graphs, and their applications in deep learning and computational biology</i></p>
+
+</div>
 
 </div>
 
